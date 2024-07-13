@@ -1,0 +1,5 @@
+name: sunny_day
+channels:
+  - conda-forge
+  - defaults
+prefix: C:\Users\Ollie\miniconda3\envs\sunny_day
